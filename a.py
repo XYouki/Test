@@ -1,6 +1,6 @@
-class Something:
+class A
     def out(self):
         print("it works")
 
-s = Something()
+s = A()
 s.out()
